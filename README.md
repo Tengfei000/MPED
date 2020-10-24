@@ -18,3 +18,6 @@ label : 0-resting status, 1-neutral, 2-joy, 3-funny, 4-angry, 5-fear, 6-disgust,
 Note:
 Training trials: [2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18,19,20,23,25,27]
 Testing trials: [21,22,24,26,28,29,30]
+
+Reference:
+[1] Song T, Zheng W, Lu C, et al. MPED: A Multi-Modal Physiological Emotion Database for Discrete Emotion Recognition[J]. IEEE Access, 2019, 7: 12177-12191. 
