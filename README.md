@@ -23,4 +23,14 @@ Testing trials: [21,22,24,26,28,29,30]
 **If you want to apply for this database, please download the license and follow the introduction.**  
 
 Reference:  
-[1] Song T, Zheng W, Lu C, et al. MPED: A Multi-Modal Physiological Emotion Database for Discrete Emotion Recognition[J]. IEEE Access, 2019, 7: 12177-12191. 
+[1] Song T, Zheng W, Lu C, et al. MPED: A Multi-Modal Physiological Emotion Database for Discrete Emotion Recognition[J]. IEEE Access, 2019, 7: 12177-12191.
+BibTeX:
+@article{song2019mped,  
+  title={MPED: A multi-modal physiological emotion database for discrete emotion recognition},  
+  author={Song, Tengfei and Zheng, Wenming and Lu, Cheng and Zong, Yuan and Zhang, Xilei and Cui, Zhen},  
+  journal={IEEE Access},  
+  volume={7},  
+  pages={12177--12191},  
+  year={2019},  
+  publisher={IEEE}
+}
